@@ -4,10 +4,24 @@
 WaveSync is a desktop audio visualizer that captures system audio in real time and displays animated LED patterns synchronized with music and sound output.
 
 
-![WaveSync Device Showcase](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/x2gqi3knwo88dh5lwbaf49nvmesw?response-content-disposition=inline%3B%20filename%3D%22image.png%22%3B%20filename%2A%3DUTF-8%27%27image.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260616%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260616T172810Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d21694b9066868f6dfb1eafe95347f178a38204bd6720931997fd2bed53a364b)
-
-![WaveSync Electronic Schematics](https://f8d710a55cb9b516d88635f103c2c9f2.r2.cloudflarestorage.com/fallout-prod/j5gme1vwfivnm8gs35r6j7rfnr1x?response-content-disposition=inline%3B%20filename%3D%22Screenshot%202026-06-13%20202134.png%22%3B%20filename%2A%3DUTF-8%27%27Screenshot%25202026-06-13%2520202134.png&response-content-type=image%2Fjpeg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5772cb82b969263c7af56eaa97f94e11%2F20260616%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260616T172810Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=c20c54f52b2474583490aab3948630f7548dcb757715c698aea6f058b257fe23)
-
+<table align="center" cellspacing="10">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/e1ed68ea-b86d-4f94-bba4-cacf17eec1df"
+        height="400"
+        alt="WaveSync Aygıtı"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/8fb8e9ff-7845-4e29-9971-e7669ba1e188"
+        height="400"
+        alt="WaveSync Spektrum Analizi"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Features
 
