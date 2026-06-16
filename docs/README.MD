@@ -1,7 +1,10 @@
 
-# 🌊 WaveSync
+#  WaveSync
 
 WaveSync is a desktop audio visualizer that captures system audio in real time and displays animated LED patterns synchronized with music and sound output.
+
+
+<img width="810" height="1237" alt="image" src="https://github.com/user-attachments/assets/ff536da4-8927-44f4-af15-ea80fe9c820a" />
 
 
 <table align="center" cellspacing="10">
