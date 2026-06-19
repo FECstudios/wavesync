@@ -111,7 +111,7 @@ pip install numpy pyserial soundcard scipy
 1. Open Arduino IDE.
 2. Install ESP32 board support.
 3. Select your ESP32 board.
-4. Open `wavesync.ino`.
+4. Open [firmware/wavesync.ino](../firmware/wavesync.ino).
 5. Upload the firmware.
 
 ---
@@ -122,7 +122,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/FECstudios/wavesync.git
-cd wavesync/code
+cd wavesync/firmware
 ```
 
 Install dependencies:
