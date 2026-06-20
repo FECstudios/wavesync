@@ -6,6 +6,12 @@ WaveSync is a desktop audio visualizer that captures system audio in real time a
 
 <img width="810" height="1237" alt="image" src="https://github.com/user-attachments/assets/ff536da4-8927-44f4-af15-ea80fe9c820a" />
 
+## Motivation
+
+Many DIY audio visualizers rely on microphones to detect sound. While simple, microphone-based systems can be affected by background noise, room acoustics, speaker placement, and surrounding conversations, resulting in inaccurate visualizations.
+
+WaveSync was built to solve this problem by capturing audio directly from the computer instead of listening through a microphone. This allows the visualizer to react to the exact audio being played, producing cleaner, more accurate, and lower-latency visual effects regardless of the environment.
+
 
 <table align="center" cellspacing="10">
   <tr>
